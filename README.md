@@ -13,7 +13,7 @@ I'm a Computer Science student at **Tufts University**, minoring in **Music, Sou
 ### Languages & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cpp,c,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cpp,c,git,next,tailwind,godot" />
 </div>
 
 ---
